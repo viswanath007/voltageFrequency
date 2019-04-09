@@ -23,7 +23,7 @@ npm run client
 
 
 # URL
-http://localhost:5000/?tagName=power&tagValue=line
+http://localhost:3000/?tagName=power&tagValue=line
 
 
 ```
