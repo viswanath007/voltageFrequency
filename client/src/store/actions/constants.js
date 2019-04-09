@@ -1,0 +1,1 @@
+export const GET_VOLTAGE_VALUES = "GET_VOLTAGE_VALUES";
